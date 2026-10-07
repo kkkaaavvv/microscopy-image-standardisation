@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 
 # Load image
-image_path = "images/microscopy_sample.png"
+image_path = "week1/images/microscopy_sample.png"
 image = cv2.imread(image_path)
 
 
