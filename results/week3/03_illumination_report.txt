@@ -1,0 +1,17 @@
+MICROSCOPY IMAGE ILLUMINATION ANALYSIS
+=============================================
+Image shape: (800, 800, 3)
+Mean illumination: 153.53
+Standard deviation: 13.21
+Minimum illumination: 111
+Maximum illumination: 194
+Illumination range: 83
+Relative variation: 8.60%
+
+Regional Brightness:
+Top Left: 146.70
+Top Right: 155.23
+Bottom Left: 152.05
+Bottom Right: 160.15
+
+Note: Gaussian smoothing provides an approximate large-scale illumination estimate. It may also include contributions from tissue and cell structures.

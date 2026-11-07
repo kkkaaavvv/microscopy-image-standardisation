@@ -1,0 +1,3 @@
+Image,Otsu_Threshold,Watershed_Region_Count,Foreground_Pixels,Foreground_Percentage,Mean_Region_Area,Median_Region_Area,Minimum_Region_Area,Maximum_Region_Area,Region_Area_Std,Boundary_Pixels,Boundary_Percentage
+Source,152.0,89,75178,11.7465625,844.6966292134831,468.0,24,6861,1038.1114053841418,11823,1.8473437499999998
+Normalised,195.0,68,54595,8.53046875,802.8676470588235,424.5,41,6917,1117.3729682293904,9443,1.47546875

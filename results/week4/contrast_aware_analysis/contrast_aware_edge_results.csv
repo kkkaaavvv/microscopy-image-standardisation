@@ -1,0 +1,7 @@
+Method,Image,Edge_Density
+Fixed Canny,Source,0.1966640625
+Fixed Canny,Normalised,0.0584484375
+Adaptive Canny,Source,0.1913328125
+Adaptive Canny,Normalised,0.0113171875
+CLAHE + Adaptive Canny,Source,0.3081828125
+CLAHE + Adaptive Canny,Normalised,0.234315625

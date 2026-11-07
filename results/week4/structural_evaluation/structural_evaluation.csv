@@ -1,0 +1,8 @@
+Metric,Value
+SSIM_Source_vs_Normalised,0.8719533934800856
+Source_Laplacian_Variance,708.7426112673437
+Normalised_Laplacian_Variance,265.860333219375
+Source_Edge_Density,0.1966640625
+Normalised_Edge_Density,0.0584484375
+Source_Gradient_Magnitude,79.82523753094944
+Normalised_Gradient_Magnitude,47.28562928911811

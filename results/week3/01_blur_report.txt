@@ -1,0 +1,7 @@
+MICROSCOPY IMAGE BLUR DETECTION
+========================================
+Image shape: (800, 800, 3)
+Image data type: uint8
+Variance of Laplacian: 708.74
+
+Note: Blur thresholds are preliminary.

@@ -1,0 +1,14 @@
+MICROSCOPY IMAGE INTENSITY ANALYSIS
+========================================
+Image shape: (800, 800, 3)
+Mean intensity: 152.48
+Median intensity: 154.00
+Standard deviation: 27.43
+Minimum intensity: 50
+Maximum intensity: 231
+5th percentile: 105.00
+25th percentile: 133.00
+75th percentile: 174.00
+95th percentile: 194.00
+Dark pixel percentage: 0.00%
+Bright pixel percentage: 0.00%
